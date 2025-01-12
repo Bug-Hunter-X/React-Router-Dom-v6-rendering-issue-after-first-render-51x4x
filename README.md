@@ -1,0 +1,1 @@
+This repository contains a bug report and solution for a React Router Dom v6 rendering issue. The bug prevents any component from rendering after the initial render. The solution involves using the `useLocation` hook to force a rerender when the location changes.
